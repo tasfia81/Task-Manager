@@ -82,11 +82,10 @@ Here’s a preview of the app 👇
 
 ## 👨‍💻 Author
 
-**Rimon Islam**  
+**Tasfia Sumaiya**  
 📍 Dhaka, Bangladesh  
 💼 Flutter Developer | API Integration | GetX & Provider expert  
-🌐 [Portfolio (https://rimon-next-protfolio.vercel.app/)]
-📧 rimon124567@gmail.com 
+
 ---
 
 ⭐ If you like this project, don’t forget to **star** the repo!  
